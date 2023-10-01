@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "666833860384",
+    "project_id": "invertech-c242e",
+    "storage_bucket": "invertech-c242e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666833860384:android:c8c715db100c12f5c60945",
+        "android_client_info": {
+          "package_name": "com.example.invertech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666833860384-g5rkbfl360j7r6m3uo2t9qehgslta290.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.invertech",
+            "certificate_hash": "0846cdef423e37ebba1d63ec6ead32f03171af9c"
+          }
+        },
+        {
+          "client_id": "666833860384-tcust1ce8ieics9o89vkatp13n0p4rbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-_eYP9q-8VfP1HPPuIuGjtQyYkM6IMTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666833860384-fudr5uih57b1lir9753orlqg9kkmllc1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "666833860384-5c5d8npqkbha1h0r1n11r8are1vv5g52.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.invertech"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666833860384:android:82a3bae8d5da1555c60945",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666833860384-tcust1ce8ieics9o89vkatp13n0p4rbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-_eYP9q-8VfP1HPPuIuGjtQyYkM6IMTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666833860384-fudr5uih57b1lir9753orlqg9kkmllc1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "666833860384-5c5d8npqkbha1h0r1n11r8are1vv5g52.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.invertech"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
